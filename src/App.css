@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  padding: 100px;
+  font-size: 30px;
+}
+
+.App form {
+  font-size: 30px;
+}
